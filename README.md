@@ -1,6 +1,5 @@
 ## The correctness of the string
 
-### FASM Lab test
 
 ### Task:
 
